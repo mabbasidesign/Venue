@@ -6,7 +6,7 @@ import Footer from './components/headre-footer/footer';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App" style={{ height:'1500px', background:'brown' }} >
         <Header />
       </div>
     );
